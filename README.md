@@ -1,10 +1,16 @@
 # Criando-um-Ransomware-em-Python
 
-Objetivos: 
-- implementar um Ransomware para criptografar arquivos utilizando a linguagem Python.
+📌 Objetivo
 
-Arquivos do projeto:
-- encrypter.py: código que irá criptografar os arquivos;
-- decrypter.py: código que irá descriptografar um arquivo previamente criptografado.
+Este projeto tem como finalidade estudar conceitos de criptografia e sua aplicação prática em Python.
+Ele demonstra como arquivos podem ser protegidos com uma chave e, posteriormente, recuperados, de forma didática e controlada.
 
+⚠️ Aviso Importante:
+Este projeto não deve ser usado com intenção maliciosa.
+O código é apenas para fins educacionais e simulação em ambientes controlados.
 
+📂 Estrutura do Projeto
+
+encrypter.py → Script que criptografa arquivos usando uma chave definida.
+
+decrypter.py → Script que descriptografa arquivos previamente criptografados pelo encrypter.py.
